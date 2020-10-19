@@ -72,7 +72,7 @@ a:focus {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  margin-bottom: 32px;
+  margin-bottom: 20px;
  }
 
 .about-image {
@@ -84,12 +84,12 @@ a:focus {
 .about-content {
    width: 410px;
    font-size: 10px;
-   line-height: 24px;
+   line-height: 20px;
  }
 
 .about-content p {
    margin: 0;
-   margin-bottom: 12px;
+   margin-bottom: 20px;
    padding: 0;
  }
 
